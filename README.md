@@ -1,6 +1,6 @@
 <li>Porcentaje de testing</li>
 
 <p align="center">
-	  <img src="https://github.com/mercyluz/junit-example/blob/main/junit.png" />
+	  <img src="(https://github.com/mercyluz/Fizzbuzz/blob/main/fizzbuzz.png)" />
 </p>
 
